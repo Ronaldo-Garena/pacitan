@@ -50,7 +50,7 @@ header ul li a:hover {
 }
 .banner {
     height: 60vh;
-    background-image: url('../pacitan/pacitan2.jpeg');
+    background-image: url("/pacitan/pacitan2.jpeg");
     background-size: cover;
     position: relative;
     display:flex;
